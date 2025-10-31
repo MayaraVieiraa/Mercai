@@ -16,7 +16,7 @@ Equipe de desenvolvimento:
 - Pesquisa de produtos por categoria e nome
 - Criação e gerenciamento da lista de compras
 - Cálculo automático dos melhores preços e ofertas
-- Dashboard com resultados otimizados
+- Dashboard com resultados otimizados com comparação de preços entre produtos
 
 ## Estrutura do projeto
 Em construção...
